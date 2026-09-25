@@ -168,4 +168,3 @@ SOC-Threat-Detection-Response/
 - Expand automation playbooks to support EDR or SOAR tooling  
 
 ---
-
