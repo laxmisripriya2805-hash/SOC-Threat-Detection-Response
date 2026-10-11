@@ -166,5 +166,3 @@ SOC-Threat-Detection-Response/
 - Add user behavior analytics (UBA) for lateral movement detection  
 - Test multi-tenant architectures to validate SIEM scalability  
 - Expand automation playbooks to support EDR or SOAR tooling  
-
----
