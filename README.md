@@ -9,13 +9,11 @@
 [![Python](https://img.shields.io/badge/Scripting-Python-blue?logo=python)]()
 [![Wireshark](https://img.shields.io/badge/Tool-Wireshark-0090ff?logo=wireshark)]()
 
----
 
 ## <span style="color:#2b6cb0">Executive Summary</span>
 
 > A hands-on SOC simulation lab implementing Splunk and Ansible to detect, analyze, and automate responses to security incidents. This lab demonstrates real-world SOC capabilities, including log ingestion, dashboarding, alerting, threat detection, incident analysis, and automated response workflows.
 
----
 
 ## Table of Contents
 - [Threat Detection Overview](#threat-detection-overview)
@@ -28,7 +26,6 @@
 - [Repository Structure](#repository-structure)
 - [Recommendations for Future Enhancements](#recommendations-for-future-enhancements)
 
----
 
 ## <span style="color:#2b6cb0">Threat Detection Overview</span>
 
